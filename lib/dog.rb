@@ -5,7 +5,7 @@ def bark
  end
 end
 
-fido.sit
+
   
 
 
