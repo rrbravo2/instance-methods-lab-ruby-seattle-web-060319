@@ -14,4 +14,4 @@ fido = Dog.new
 fido.sit 
 
 class person
-end 
+
