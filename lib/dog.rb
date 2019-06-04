@@ -10,6 +10,7 @@ def sit
  end
 end
   
+class Person
 
 
 
